@@ -1,9 +1,8 @@
-pandas 
-numpy
-ultralytics
-streamlit
-opencv-python
-pillow
+streamlit>=1.32.0
+ultralytics>=8.3.0
+opencv-python-headless>=4.9.0
+numpy>=1.26.0
+pandas>=2.2.0
+Pillow>=10.2.0
+matplotlib
 xgboost
-cv2
-
