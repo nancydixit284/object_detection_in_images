@@ -5,4 +5,5 @@ streamlit
 opencv-python
 pillow
 xgboost
+cv2
 
